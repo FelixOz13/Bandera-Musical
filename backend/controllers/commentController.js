@@ -5,10 +5,6 @@ const User = require('../models/userModel')
 
 
 
-
-// @desc    Get comments
-// @route   GET /api/comments
-// @access  Private
 // @desc    Get comments
 // @route   GET /api/comments
 // @access  Private

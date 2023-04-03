@@ -1,3 +1,4 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/FelixOz13/Frontend-for-FullStack
+	.env
